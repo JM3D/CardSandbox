@@ -9,3 +9,13 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+
+# Builds
+build/
+
+# Google Tests
+tests/lib/
+
+# Jet Brains
+.idea/
+cmake-build-debug/
